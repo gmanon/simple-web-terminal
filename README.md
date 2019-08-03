@@ -5,7 +5,7 @@ the user's needs.
 
 It's totally free.  Use it at your own rist under the GPL license.
 
-<h1>What you can do?</h1>
+<h1>What can you do?</h1>
 You actually can do anything you wish; however, for security reasons, you rather limit yourself to very basic commands.  On this version, you can...
 The class allows you to choose what commands to allow.
 
