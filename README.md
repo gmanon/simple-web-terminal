@@ -1,9 +1,8 @@
 # simple-web-terminal
 Terminal interface for the web
-"Simple Web Terminal" is a simple PHP terminal where you can choose what commands to allow.  It works online and can be modify and adapted to 
-the user's needs.  
+"Simple Web Terminal" is a simple PHP terminal where you can choose what commands to allow.  It works online and can be modified and adapted according to the user's needs.  
 
-It's totally free.  Use it at your own rist under the GPL license.
+It's totally free.  Use it at your own rist, under the GPL license.  
 
 <h1>What can you do?</h1>
 You actually can do anything you wish; however, for security reasons, you rather limit yourself to very basic commands.  On this version, you can...
